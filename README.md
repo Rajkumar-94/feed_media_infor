@@ -21,7 +21,7 @@ d) Clone or download the repository.
 
 e) pip install -r requirements.txt to install dependencies.
 
-__2. Setup for running the code
+__2. Setup for running the code__
 
 a) Update the retrieve_feeds_media_details/conf.py file to include the API method, auth token, feed id and required aspect ratio & resolution.
 
